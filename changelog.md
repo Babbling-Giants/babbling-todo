@@ -10,6 +10,15 @@ change2
 change1
 
 Files Added:
+Alex Zielinski: Added: /controllers/Roles.php
+
+				Modified:	/config/autoload.php
+							/config/config.php
+							/config/constants.php
+							/controllers/Mtce.php
+							/views/_menubar.php ~ March 2 2017
+
+
 Alex Zielinski: Added:  /controllers/Mtce.php
 						/views/itemlist.php
 						/views/oneitem.php ~ March 2 2017
