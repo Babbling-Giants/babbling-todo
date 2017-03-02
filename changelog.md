@@ -10,6 +10,7 @@ change2
 change1
 
 Files Added:
+Matt Goerwell: added itemnav.php to handle the view for our pagination navbar ~ March 2 2017
 Alex Zielinski: Added:  /controllers/Mtce.php
 						/views/itemlist.php
 						/views/oneitem.php ~ March 2 2017
@@ -24,6 +25,7 @@ Matt Goerwell: Added Changelog file ~ February 16 2017
 
 
 Files Changed:
+Matt Goerwell:  updated the mtce controller to handle pagination, and added the navbar to the maintenance page view. 
 Matt Goerwell:  Updated our autoload file to use the new markdown library. ~ February 17 2017
 Matt Goerwell:  updated views/template_secondary to reflect the required changes due to Jim's css errors ~ February 17 2017
 Alex Zielinski: Added function to display data by category in /models/Tasks.php
