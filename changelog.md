@@ -10,6 +10,10 @@ change2
 change1
 
 Files Added:
+Alex Zielinski: Added:  /controllers/Mtce.php
+						/views/itemlist.php
+						/views/oneitem.php ~ March 2 2017
+
 Matt Goerwell: Added the parsedown library, in addition to a markdown file for our new help wanted page. ~ February 17 2017
 Alex Zielinski: Added: 	/controllers/Views.php, 
 						/views/by_category.php
