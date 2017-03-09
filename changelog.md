@@ -10,6 +10,8 @@ change2
 change1
 
 Files Added:
+Matt Goerwell:  Added: _alert view for internal use ~ March 9 2017
+Matt Goerwell:  Added: all caboose files (third_party/assets) ~ March 9 2017
 Alex Zielinski: Added: /controllers/Roles.php ~ March 2 2017
 							
 Matt Goerwell: added itemnav.php to handle the view for our pagination navbar ~ March 2 2017
@@ -27,6 +29,7 @@ Matt Goerwell: Added Changelog file ~ February 16 2017
 
 
 Files Changed:
+Matt Goerwell:  Adjusted autoload, templates, and base controller to support caboose ~ March 9 2017
 Alex Zielinski: Modified:	/config/autoload.php
 							/config/config.php
 							/config/constants.php
