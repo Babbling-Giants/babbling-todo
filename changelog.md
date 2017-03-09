@@ -29,6 +29,7 @@ Matt Goerwell: Added Changelog file ~ February 16 2017
 
 
 Files Changed:
+Matt Goerwell:  Updated menubar to use proper user roles, added complete button and role handling to work page ~ March 9 2017
 Alex Zielinski: Modified database to use RDB for sessions and created SQL dump
 				Modified:	/config/config.php
 							/data/todo.sql ~ March 9 2017
