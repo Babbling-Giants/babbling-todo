@@ -10,6 +10,8 @@ change2
 change1
 
 Files Added:
+Alex Zielinski: Added:  /views/itemadd.php for an owner to add a new item
+						/views/oneitemx.php to create links out of task ID's for owners ~ March 12 2017
 Matt Goerwell:  Added: _alert view for internal use ~ March 9 2017
 Matt Goerwell:  Added: all caboose files (third_party/assets) ~ March 9 2017
 Alex Zielinski: Added: /controllers/Roles.php ~ March 2 2017
